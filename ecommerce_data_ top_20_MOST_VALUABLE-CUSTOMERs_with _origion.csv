@@ -1,0 +1,21 @@
+CustomerID,Country,recency_days,total_orders,total_spent
+14646,Netherlands,2,73,280206.02
+18102,"United Kingdom",1,60,259657.30
+17450,"United Kingdom",9,46,194390.79
+16446,"United Kingdom",1,2,168472.50
+14911,Ireland,2,201,143711.17
+12415,Australia,25,21,124914.53
+14156,Ireland,10,55,117210.08
+17511,"United Kingdom",3,31,91062.38
+16029,"United Kingdom",39,63,80850.84
+12346,"United Kingdom",326,1,77183.60
+16684,"United Kingdom",5,28,66653.56
+14096,"United Kingdom",5,17,65164.79
+13694,"United Kingdom",4,50,65039.62
+15311,"United Kingdom",1,91,60632.75
+13089,"United Kingdom",3,97,58762.08
+17949,"United Kingdom",2,45,58510.48
+15769,"United Kingdom",8,26,56252.72
+15061,"United Kingdom",4,48,54534.14
+14298,"United Kingdom",9,44,51527.30
+14088,"United Kingdom",11,13,50491.81
